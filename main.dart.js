@@ -96422,7 +96422,7 @@ $S:5}
 A.apY.prototype={
 $2(a,b){var s=null,r=A.aF(36)
 b.toString
-return A.ay(s,A.cK(A.e0(new A.L3(0.46153846153846156,A.ay(s,A.a4P(r,b),B.k,s,s,B.EL,s,s,s,B.K3,s,s,s),s),s,430),s,s),B.k,B.Hx,s,s,s,s,s,s,s,s,s)},
+return A.ay(s,A.cK(A.e0(new A.L3(0.46153846153846156,A.ay(s,A.a4P(r,b),B.k,s,s,B.EQ,s,s,s,B.K3,s,s,s),s),s,430),s,s),B.k,B.Hx,s,s,s,s,s,s,s,s,s)},
 $S:33}
 A.kc.prototype={}
 A.a9u.prototype={
@@ -97624,7 +97624,7 @@ $0(){return B.b.gZ(this.a.b)},
 $S:227}
 A.tO.prototype={
 J(a){var s=null,r=t.p
-return A.jD(A.dS(B.aD,A.b([A.ay(s,s,B.k,s,s,B.EM,s,s,s,s,s,s,s),A.hg(!0,A.bN(A.b([new A.b4(B.b6,A.by(A.b([new A.Yg(new A.a2C(a),s),B.cc,B.LC,B.dP,B.a27,B.cc,B.nd],r),B.n,B.p,B.o,0),s),A.cA(A.ig(new A.a2D(),t.T6),1)],r),B.n,B.p,B.o),B.ac,!0)],r),B.y,B.ar))}}
+return A.jD(A.dS(B.aD,A.b([A.ay(s,s,B.k,s,s,B.EL,s,s,s,s,s,s,s),A.hg(!0,A.bN(A.b([new A.b4(B.b6,A.by(A.b([new A.Yg(new A.a2C(a),s),B.cc,B.LC,B.dP,B.a27,B.cc,B.nd],r),B.n,B.p,B.o,0),s),A.cA(A.ig(new A.a2D(),t.T6),1)],r),B.n,B.p,B.o),B.ac,!0)],r),B.y,B.ar))}}
 A.a2C.prototype={
 $0(){A.bX(this.a,!1).ei(null)
 return null},
@@ -97760,7 +97760,7 @@ n=m.e
 n=A.by(A.b([B.iB,B.bU,A.cA(A.ap(n==null?"Failed to sign in":n,null,null,null,B.hr,null,null),1)],t.p),B.n,B.p,B.o,0)
 o.h5(A.hX(null,null,null,A.L(B.e.a1(229.5),B.bs.l()>>>16&255,B.bs.l()>>>8&255,B.bs.l()&255),B.cb,B.y,null,n,null,B.bu,null,null,null,B.aM,null,null,null,new A.bR(A.aF(16),B.r),null,null))}case 5:case 1:return A.m(q,r)}})
 return A.n($async$r4,r)},
-J(a){var s,r,q,p,o,n,m,l,k,j,i,h=this,g=null,f=A.ay(g,g,B.k,g,g,B.EO,g,g,g,g,g,g,g),e=h.Q
+J(a){var s,r,q,p,o,n,m,l,k,j,i,h=this,g=null,f=A.ay(g,g,B.k,g,g,B.EN,g,g,g,g,g,g,g),e=h.Q
 e===$&&A.a()
 s=h.z
 s===$&&A.a()
@@ -98169,7 +98169,7 @@ J(a){var s,r,q,p,o,n,m,l,k,j=null,i="assets/images/MOLEE.png",h=A.cu(a,!0,t.B),g
 f=h.b
 e=A.a1(f).i("aI<1>")
 s=A.a5(new A.aI(f,new A.a5v(),e),e.i("J.E"))
-f=A.ay(j,j,B.k,j,j,B.EP,j,j,j,j,j,j,j)
+f=A.ay(j,j,B.k,j,j,B.EO,j,j,j,j,j,j,j)
 e=t.p
 r=A.by(A.b([new A.Yi(new A.a5w(a),j),B.cc],e),B.n,B.p,B.o,0)
 q=B.e.a1(25.5)
@@ -98536,7 +98536,7 @@ $0(){this.b.w=this.a.a},
 $S:0}
 A.auj.prototype={
 $1(a){var s=null,r=A.b([B.q_,B.kC],t.O),q=A.aF(12),p=A.b([new A.bM(0,B.a3,A.L(B.e.a1(76.5),B.l.l()>>>16&255,B.l.l()>>>8&255,B.l.l()&255),B.h0,10)],t.V),o=this.a,n=t.p
-return A.jx(s,A.kx(B.S,!0,s,A.ay(s,A.by(A.b([A.ay(s,A.cK(A.ap(o.e,s,s,s,B.a0u,s,s),s,s),B.k,s,s,B.EN,s,50,s,s,s,s,50),B.CA,A.cA(A.bN(A.b([B.a2w,B.WJ,A.ap(o.b,s,s,s,B.a0F,s,s),B.CE,A.ap(o.c,1,B.cx,s,B.YO,s,s)],n),B.aG,B.p,B.aO),1)],n),B.n,B.p,B.o,0),B.k,s,s,new A.aq(s,s,s,q,p,new A.cN(B.b4,B.bZ,B.a6,r,s,s),B.q),s,s,s,B.fA,s,s,s),B.k,B.K,0,s,s,s,s,s,B.d0),s,s,16,16,80,s)},
+return A.jx(s,A.kx(B.S,!0,s,A.ay(s,A.by(A.b([A.ay(s,A.cK(A.ap(o.e,s,s,s,B.a0u,s,s),s,s),B.k,s,s,B.EM,s,50,s,s,s,s,50),B.CA,A.cA(A.bN(A.b([B.a2w,B.WJ,A.ap(o.b,s,s,s,B.a0F,s,s),B.CE,A.ap(o.c,1,B.cx,s,B.YO,s,s)],n),B.aG,B.p,B.aO),1)],n),B.n,B.p,B.o,0),B.k,s,s,new A.aq(s,s,s,q,p,new A.cN(B.b4,B.bZ,B.a6,r,s,s),B.q),s,s,s,B.fA,s,s,s),B.k,B.K,0,s,s,s,s,s,B.d0),s,s,16,16,80,s)},
 $S:638}
 A.auk.prototype={
 $0(){var s=this.a
@@ -98719,7 +98719,7 @@ m(){var s=this.d
 s===$&&A.a()
 s.m()
 this.aay()},
-J(a){var s=null,r=$.yz(),q=A.ay(s,s,B.k,s,s,B.EQ,s,s,s,s,s,s,s),p=A.jx(s,A.ay(s,s,B.k,s,s,new A.aq(A.L(38,B.bE.l()>>>16&255,B.bE.l()>>>8&255,B.bE.l()&255),s,s,s,A.b([new A.bM(50,B.a3,A.L(B.e.a1(25.5),B.bE.l()>>>16&255,B.bE.l()>>>8&255,B.bE.l()&255),B.i,100)],t.V),s,B.b_),s,300,s,s,s,s,300),s,s,s,-100,-100,s),o=t.p,n=A.by(A.b([new A.VY(B.La,B.w,new A.auX(r,a),s),A.ig(new A.auY(),t.B)],o),B.n,B.dE,B.o,0),m=this.e
+J(a){var s=null,r=$.yz(),q=A.ay(s,s,B.k,s,s,B.EP,s,s,s,s,s,s,s),p=A.jx(s,A.ay(s,s,B.k,s,s,new A.aq(A.L(38,B.bE.l()>>>16&255,B.bE.l()>>>8&255,B.bE.l()&255),s,s,s,A.b([new A.bM(50,B.a3,A.L(B.e.a1(25.5),B.bE.l()>>>16&255,B.bE.l()>>>8&255,B.bE.l()&255),B.i,100)],t.V),s,B.b_),s,300,s,s,s,s,300),s,s,s,-100,-100,s),o=t.p,n=A.by(A.b([new A.VY(B.La,B.w,new A.auX(r,a),s),A.ig(new A.auY(),t.B)],o),B.n,B.dE,B.o,0),m=this.e
 m===$&&A.a()
 return A.jD(A.dS(B.aD,A.b([q,p,A.hg(!0,A.bN(A.b([new A.b4(B.qq,n,s),B.cc,A.ez(m,new A.auZ(this),s),B.bb,A.amg(B.a2y,new A.av_()),B.X_,new A.xE("PLAY NOW",B.Lc,B.rC,new A.av0(r,a),s),B.jy,new A.xE("LEADERBOARD",B.m2,B.NV,new A.av1(r,a),s),B.jy,A.by(A.b([new A.ID("TROPHIES",B.r9,new A.av2(r,a),s),B.d4,new A.ID("SETTINGS",B.Lf,new A.av3(r,a),s)],o),B.n,B.at,B.o,0),B.cc,new A.b4(B.K6,A.by(A.b([A.cA(new A.FN(B.KZ,"DAILY REWARD",B.kC,new A.av4(r,a),s),1),B.d4,A.cA(new A.FN(B.Lg,"MARKETPLACE",B.kW,new A.av5(r,a),s),1)],o),B.n,B.p,B.o,0),s)],o),B.n,B.p,B.o),B.ac,!0)],o),B.y,B.ar))}}
 A.auX.prototype={
@@ -102943,11 +102943,11 @@ B.Rs=new A.cC([50,B.Ik,100,B.H3,200,B.I1,300,B.Iu,400,B.kO,500,B.q1,600,B.Ir,700
 B.ct=new A.it(B.Rs,1,0.2980392156862745,0.6862745098039216,0.3137254901960784,B.f)
 B.b_=new A.Lz(1,"circle")
 B.EI=new A.aq(B.ct,null,null,null,null,null,B.b_)
-B.Ee=new A.pn("assets/images/BACKGROUND.png",null,null)
+B.Ed=new A.pn("assets/images/BACKGROUND.png",null,null)
 B.EY=new A.u0(2,"cover")
 B.cH=new A.uT(3,"noRepeat")
 B.cm=new A.pY(2,"medium")
-B.J5=new A.pL(B.Ee,null,B.EY)
+B.J5=new A.pL(B.Ed,null,B.EY)
 B.q=new A.Lz(0,"rectangle")
 B.EJ=new A.aq(null,B.J5,null,null,null,null,B.q)
 B.Hz=new A.u(1,0.10196078431372549,0.10196078431372549,0.10196078431372549,B.f)
@@ -102959,28 +102959,28 @@ B.I5=new A.u(1,0.00784313725490196,0.4666666666666667,0.7411764705882353,B.f)
 B.Ot=s([B.pD,B.hX,B.I5],t.O)
 B.My=new A.cN(B.b4,B.bZ,B.a6,B.Ot,null,null)
 B.EK=new A.aq(null,null,null,null,null,B.My,B.q)
-B.Ed=new A.pn("assets/images/phone.png",null,null)
-B.EX=new A.u0(0,"fill")
-B.J6=new A.pL(B.Ed,null,B.EX)
-B.EL=new A.aq(null,B.J6,null,null,null,null,B.q)
 B.kt=new A.u(1,0.3176470588235294,0.17647058823529413,0.6588235294117647,B.f)
 B.kI=new A.u(1,0.5333333333333333,0.054901960784313725,0.30980392156862746,B.f)
 B.eb=new A.u(1,0.19215686274509805,0.10588235294117647,0.5725490196078431,B.f)
 B.NL=s([B.kt,B.kI,B.eb],t.O)
 B.Mw=new A.cN(B.b4,B.bZ,B.a6,B.NL,null,null)
-B.EM=new A.aq(null,null,null,null,null,B.Mw,B.q)
-B.EN=new A.aq(B.c,null,null,null,null,null,B.b_)
+B.EL=new A.aq(null,null,null,null,null,B.Mw,B.q)
+B.EM=new A.aq(B.c,null,null,null,null,null,B.b_)
 B.po=new A.u(1,0.10196078431372549,0.13725490196078433,0.49411764705882355,B.f)
 B.kK=new A.u(1,0.27058823529411763,0.15294117647058825,0.6274509803921569,B.f)
 B.NI=s([B.po,B.eb,B.kK],t.O)
 B.Mz=new A.cN(B.b4,B.bZ,B.a6,B.NI,null,null)
-B.EO=new A.aq(null,null,null,null,null,B.Mz,B.q)
+B.EN=new A.aq(null,null,null,null,null,B.Mz,B.q)
 B.O9=s([B.eb,B.kK,B.kt],t.O)
 B.Mv=new A.cN(B.b4,B.bZ,B.a6,B.O9,null,null)
-B.EP=new A.aq(null,null,null,null,null,B.Mv,B.q)
+B.EO=new A.aq(null,null,null,null,null,B.Mv,B.q)
 B.Pr=s([B.po,B.eb,B.kI],t.O)
 B.MI=new A.cN(B.b4,B.bZ,B.a6,B.Pr,null,null)
-B.EQ=new A.aq(null,null,null,null,null,B.MI,B.q)
+B.EP=new A.aq(null,null,null,null,null,B.MI,B.q)
+B.Ee=new A.pn("assets/images/Phone.png",null,null)
+B.EX=new A.u0(0,"fill")
+B.J6=new A.pL(B.Ee,null,B.EX)
+B.EQ=new A.aq(null,B.J6,null,null,null,null,B.q)
 B.Hm=new A.u(1,0.6784313725490196,0.0784313725490196,0.3411764705882353,B.f)
 B.ph=new A.u(1,0.7607843137254902,0.09411764705882353,0.3568627450980392,B.f)
 B.Od=s([B.kI,B.Hm,B.ph],t.O)
