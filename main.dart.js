@@ -28522,7 +28522,7 @@ var $async$a22=A.p(function(a,b){if(a===1)return A.l(b,r)
 for(;;)switch(s){case 0:if($.a0==null)A.aq_()
 $.a0.toString
 s=2
-return A.h($.aEf().Ea(".env"),$async$a22)
+return A.h($.aEf().Ea("env.txt"),$async$a22)
 case 2:q=$.aEf().ga0b().h(0,"SUPABASE_URL")
 q.toString
 p=$.aEf().ga0b().h(0,"SUPABASE_ANON_KEY")
