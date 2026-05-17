@@ -52684,7 +52684,7 @@ gcE(){return B.K},
 gds(){return B.K},
 gjU(){return this.gXM().f},
 gkf(){return this.gXM().z},
-gwj(){return B.K3}}
+gwj(){return B.K4}}
 A.uA.prototype={
 gA(a){var s=this
 return A.bF([s.gc6(),s.b,s.gcE(),s.gds(),s.e,s.f,s.gc_(),s.gjU(),s.gkf(),s.gwj(),s.z,s.Q,s.as,s.at])},
@@ -96349,9 +96349,9 @@ s=this.c
 if(!s.ch)s.eR()},
 $S:5}
 A.apW.prototype={
-$2(a,b){var s=null,r=A.aF(44)
+$2(a,b){var s=null,r=A.aF(38)
 b.toString
-return A.ay(s,A.cK(A.e0(A.ay(s,A.a4N(r,b),B.k,s,s,B.EQ,s,s,s,B.K7,s,s,s),849.04,416.35),s,s),B.k,B.Hx,s,s,s,s,s,s,s,s,s)},
+return A.ay(s,A.cK(A.e0(A.ay(s,A.a4N(r,b),B.k,s,s,B.EQ,s,s,s,B.K3,s,s,s),849.04,416.35),s,s),B.k,B.Hx,s,s,s,s,s,s,s,s,s)},
 $S:33}
 A.kc.prototype={}
 A.a9s.prototype={
@@ -98117,7 +98117,7 @@ n=A.co(A.L(n,B.w.l()>>>16&255,B.w.l()>>>8&255,B.w.l()&255),1)
 m=A.b([new A.bM(5,B.a3,A.L(51,B.w.l()>>>16&255,B.w.l()>>>8&255,B.w.l()&255),B.i,30)],m)
 m=A.bN(A.b([B.E3,B.bb,A.by(A.b([l,B.CC,A.ay(j,A.cK(A.ap(h.Pk(),j,j,j,B.jD,j,j),j,j),B.k,j,j,new A.aq(q,j,n,j,m,j,B.aZ),j,110,j,j,j,j,110)],e),B.n,B.at,B.o,0)],e),B.n,B.p,B.o)
 n=A.L(51,B.l.l()>>>16&255,B.l.l()>>>8&255,B.l.l()&255)
-return A.jD(A.dS(B.aB,A.b([f,A.hg(!0,A.bN(A.b([new A.b4(B.b6,r,j),new A.b4(B.qr,m,j),B.bb,A.cA(A.ay(j,A.aL_(A.b([B.SU,A.B5(B.y,B.CG,new A.a5x(h,g,d),d.length+1,j,j,B.mz,!0),B.dQ,B.SS,A.B5(B.y,B.CG,new A.a5y(h,g,s),s.length+1,j,j,B.mz,!0)],e),B.K6),B.k,j,j,new A.aq(n,j,j,B.oq,j,j,B.q),j,j,j,j,j,j,j),1)],e),B.n,B.p,B.o),B.ac,!0)],e),B.y,B.ar))}}
+return A.jD(A.dS(B.aB,A.b([f,A.hg(!0,A.bN(A.b([new A.b4(B.b6,r,j),new A.b4(B.qr,m,j),B.bb,A.cA(A.ay(j,A.aL_(A.b([B.SU,A.B5(B.y,B.CG,new A.a5x(h,g,d),d.length+1,j,j,B.mz,!0),B.dQ,B.SS,A.B5(B.y,B.CG,new A.a5y(h,g,s),s.length+1,j,j,B.mz,!0)],e),B.K7),B.k,j,j,new A.aq(n,j,j,B.oq,j,j,B.q),j,j,j,j,j,j,j),1)],e),B.n,B.p,B.o),B.ac,!0)],e),B.y,B.ar))}}
 A.a5s.prototype={
 $1(a){return a.e===B.dO&&a.w},
 $S:39}
@@ -98650,7 +98650,7 @@ s.m()
 this.aay()},
 J(a){var s=null,r=$.yz(),q=A.ay(s,s,B.k,s,s,B.EP,s,s,s,s,s,s,s),p=A.jx(s,A.ay(s,s,B.k,s,s,new A.aq(A.L(38,B.bE.l()>>>16&255,B.bE.l()>>>8&255,B.bE.l()&255),s,s,s,A.b([new A.bM(50,B.a3,A.L(B.e.a1(25.5),B.bE.l()>>>16&255,B.bE.l()>>>8&255,B.bE.l()&255),B.i,100)],t.V),s,B.aZ),s,300,s,s,s,s,300),s,s,s,-100,-100,s),o=t.p,n=A.by(A.b([new A.VW(B.La,B.w,new A.auV(r,a),s),A.ig(new A.auW(),t.B)],o),B.n,B.dE,B.o,0),m=this.e
 m===$&&A.a()
-return A.jD(A.dS(B.aB,A.b([q,p,A.hg(!0,A.bN(A.b([new A.b4(B.qq,n,s),B.cc,A.ez(m,new A.auX(this),s),B.bb,A.ame(B.a2y,new A.auY()),B.X_,new A.xE("PLAY NOW",B.Lc,B.rC,new A.auZ(r,a),s),B.jy,new A.xE("LEADERBOARD",B.m2,B.NV,new A.av_(r,a),s),B.jy,A.by(A.b([new A.IC("TROPHIES",B.r9,new A.av0(r,a),s),B.d4,new A.IC("SETTINGS",B.Lf,new A.av1(r,a),s)],o),B.n,B.at,B.o,0),B.cc,new A.b4(B.K5,A.by(A.b([A.cA(new A.FM(B.KZ,"DAILY REWARD",B.kC,new A.av2(r,a),s),1),B.d4,A.cA(new A.FM(B.Lg,"MARKETPLACE",B.kW,new A.av3(r,a),s),1)],o),B.n,B.p,B.o,0),s)],o),B.n,B.p,B.o),B.ac,!0)],o),B.y,B.ar))}}
+return A.jD(A.dS(B.aB,A.b([q,p,A.hg(!0,A.bN(A.b([new A.b4(B.qq,n,s),B.cc,A.ez(m,new A.auX(this),s),B.bb,A.ame(B.a2y,new A.auY()),B.X_,new A.xE("PLAY NOW",B.Lc,B.rC,new A.auZ(r,a),s),B.jy,new A.xE("LEADERBOARD",B.m2,B.NV,new A.av_(r,a),s),B.jy,A.by(A.b([new A.IC("TROPHIES",B.r9,new A.av0(r,a),s),B.d4,new A.IC("SETTINGS",B.Lf,new A.av1(r,a),s)],o),B.n,B.at,B.o,0),B.cc,new A.b4(B.K6,A.by(A.b([A.cA(new A.FM(B.KZ,"DAILY REWARD",B.kC,new A.av2(r,a),s),1),B.d4,A.cA(new A.FM(B.Lg,"MARKETPLACE",B.kW,new A.av3(r,a),s),1)],o),B.n,B.p,B.o,0),s)],o),B.n,B.p,B.o),B.ac,!0)],o),B.y,B.ar))}}
 A.auV.prototype={
 $0(){$.e4().eK(A.h2())
 this.a.cT("button_click.wav")
@@ -99009,7 +99009,7 @@ return null},
 $S:0}
 A.amc.prototype={
 $3(a,b,c){var s=null,r=A.ap("AUDIO",s,s,s,B.nx,s,s),q=b.c,p=b.d,o=b.e,n=A.ap("SUPPORT & LEGAL",s,s,s,B.nx,s,s),m=this.a,l=A.ap("ACCOUNT",s,s,s,B.nx,s,s),k=A.L(8,B.c.l()>>>16&255,B.c.l()>>>8&255,B.c.l()&255),j=A.aF(24)
-return A.aL_(A.b([new A.b4(B.li,r,s),new A.xc(B.Lk,"Sound Effects",new A.xF(q,new A.am4(b),s),s),new A.xc(B.L8,"Background Music",new A.xF(p,new A.am5(b),s),s),new A.xc(B.Lj,"Haptic Feedback",new A.xF(o,new A.am6(b),s),s),B.bb,new A.b4(B.li,n,s),new A.IP(B.Ld,"Privacy Policy",new A.am7(m,a),s),new A.IP(B.L0,"Contact Support",new A.am8(m,a),s),B.bb,new A.b4(B.li,l,s),new A.Gf(B.L7,"Sign Out",new A.am9(m,a),!1,s),B.bV,new A.Gf(B.L1,"Delete Account",new A.ama(m,a),!0,s),B.hm,A.ay(s,B.Iz,B.k,s,s,new A.aq(k,s,A.co(A.L(13,B.c.l()>>>16&255,B.c.l()>>>8&255,B.c.l()&255),1),j,s,s,B.q),s,s,s,B.K4,s,s,s)],t.p),B.qp)},
+return A.aL_(A.b([new A.b4(B.li,r,s),new A.xc(B.Lk,"Sound Effects",new A.xF(q,new A.am4(b),s),s),new A.xc(B.L8,"Background Music",new A.xF(p,new A.am5(b),s),s),new A.xc(B.Lj,"Haptic Feedback",new A.xF(o,new A.am6(b),s),s),B.bb,new A.b4(B.li,n,s),new A.IP(B.Ld,"Privacy Policy",new A.am7(m,a),s),new A.IP(B.L0,"Contact Support",new A.am8(m,a),s),B.bb,new A.b4(B.li,l,s),new A.Gf(B.L7,"Sign Out",new A.am9(m,a),!1,s),B.bV,new A.Gf(B.L1,"Delete Account",new A.ama(m,a),!0,s),B.hm,A.ay(s,B.Iz,B.k,s,s,new A.aq(k,s,A.co(A.L(13,B.c.l()>>>16&255,B.c.l()>>>8&255,B.c.l()&255),1),j,s,s,B.q),s,s,s,B.K5,s,s,s)],t.p),B.qp)},
 $C:"$3",
 $R:3,
 $S:660}
@@ -103626,13 +103626,13 @@ B.K2=new A.ai(20,10,20,10)
 B.qp=new A.ai(20,10,20,40)
 B.qq=new A.ai(20,16,20,16)
 B.b6=new A.ai(20,20,20,20)
+B.K3=new A.ai(23,24,23,24)
 B.qr=new A.ai(24,0,24,0)
-B.K3=new A.ai(24,0,24,24)
+B.K4=new A.ai(24,0,24,24)
 B.lh=new A.ai(24,12,24,12)
-B.K4=new A.ai(24,24,24,24)
-B.K5=new A.ai(24,32,24,32)
-B.K6=new A.ai(28,30,28,40)
-B.K7=new A.ai(28,65,28,35)
+B.K5=new A.ai(24,24,24,24)
+B.K6=new A.ai(24,32,24,32)
+B.K7=new A.ai(28,30,28,40)
 B.K8=new A.ai(2,0,2,0)
 B.K9=new A.ai(32,0,32,0)
 B.Ka=new A.ai(32,16,32,16)
